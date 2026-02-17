@@ -19,7 +19,7 @@ This assignment applied Kaplan-Meier estimator and Cox proportional hazards mode
   (Original .Rmd source file is no longer available, but the PDF preserves all survival curves, Cox PH fits, hazard ratios, and quantitative results.)
 
 ## Files
-- [Yunbae_Chae_42809037 (3).pdf](Yunbae_Chae_42809037 (3).pdf) → Complete submission with survival estimates, models, plots, and conclusions  
+- [Yunbae_Chae_42809037.pdf](Yunbae_Chae_42809037.pdf) → Complete submission with survival estimates, models, plots, and conclusions  
 
 ## Date
 2023
